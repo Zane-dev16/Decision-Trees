@@ -5,7 +5,6 @@ This repository serves as an educational purpose, learning and breaking down Dec
 ## Contents
 
 - **Notebooks**: Contains Jupyter notebooks with hands-on examples, tutorials, and experiments.
-- **Scripts**: Scripts with helper function.
 - **Visualization**: Data visualizations, (.dot, .pdf, etc.)
 
 ## Getting Started
